@@ -7,7 +7,7 @@ body {
 header {
     height: auto;
     background-color: rgb(189, 157, 119);
-    position:static;
+    position:sticky;
     z-index:auto;
     top:auto;
     width: 100%;
