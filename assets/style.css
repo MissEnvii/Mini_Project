@@ -1,7 +1,72 @@
 body {
-    background-color: rgb(187, 233, 218);
+    background-color: rgb(206, 245, 232);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    margin: 0%;
+}
+header {
+    height: auto;
+    background-color: rgb(189, 157, 119);
+    position:static;
+    z-index:auto;
+    top:auto;
+    width: 100%;
+    margin: auto;
+}
+ul{
+    list-style: none;
+
+}
+h1{
+    text-align: center;
+    background-color:antiquewhite;
 }
 
-h1{
-    background-color: rgb(253, 208, 141);
+h2{
+    text-align: center;
+    color:black;
+}
+p {
+    text-align: center;
+    text-indent: 0%;
+    color: rgb(58, 29, 3);
+}
+div{
+    text-align: center;
+    color: rgb(44, 25, 0);
+}
+nav{
+    color: bisque;
+}
+.nav {
+    text-align: center;
+    font-size: medium;
+}
+
+img{
+    width: 90%;
+    margin: auto;
+    position:relative;
+    left: 4%;
+}
+.content {
+    width: 50%;
+    margin: auto;
+    font-size: medium;
+}
+footer{
+    background-color: bisque;
+    text-align: center;
+}
+
+#contact{
+    margin-left: auto;
+
+}
+#email{
+    margin-left: 0%;
+    color: black;
+}
+#name{
+    margin-left: .4%;
 }
